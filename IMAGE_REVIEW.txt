@@ -1,0 +1,16 @@
+IMAGE REVIEW — Punjabi Tadka Kitchen
+
+The image set was checked against the section and dish labels in the HTML.
+- Hero and Butter Chicken: curry image; appropriate.
+- Paneer Tikka: Indian paneer/food image; selected for vegetarian dish.
+- Tandoori Chicken: grilled/tandoor-style chicken image; appropriate.
+- Dal Makhani: lentil curry image; appropriate by section/alt description.
+- Chole Bhature: chickpeas and Indian bread image; appropriate by section/alt description.
+- Sarson da Saag & Makki di Roti: Indian bread/curry image; appropriate by section/alt description.
+- Aloo Paratha: Indian meal/flatbread image; appropriate by section/alt description.
+- Amritsari Fish: fish image; relevant, though not guaranteed to depict the exact Amritsari preparation.
+- Lassi: creamy drink image; appropriate.
+- Restaurant experience: dining-room image; appropriate.
+- Journal images: Indian food, Indian-style flatbread, and shared meal imagery. The generic bakery-loaf image was replaced with an Indian food/flatbread image.
+
+Important limitation: the image host could not be reached in this editing environment, so the actual remote image pixels could not be independently opened and visually verified. The audit is based on the image URLs, surrounding content and alt text. Before publishing, open each image in a browser and replace any stock image that does not visually match the dish. All images remain externally hosted by Unsplash.
